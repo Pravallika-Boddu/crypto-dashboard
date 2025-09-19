@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import CoinsTable from './components/CoinsTable';
-import Highlights from './components/Highlights';
+import Highlights from './components/HighLights';
 import Loading from './components/Loading';
 import { coinGeckoAPI } from './api/coingecko';
 import './styles.css';
